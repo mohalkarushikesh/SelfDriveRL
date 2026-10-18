@@ -98,8 +98,8 @@ graph TB
 
 ```bash
 # Clone the repository
-git clone https://github.com/mohalkarushikesh/Self-Driving-Car-with-PPO-RL.git
-cd Self-Driving-Car
+git clone https://github.com/mohalkarushikesh/SelfDriveRL.git
+cd SelfDriveRL
 
 # Create virtual environment
 python3 -m venv venv
@@ -291,10 +291,6 @@ Extend `env/gym_env.py` to add:
 3. Make your changes
 4. Add tests if applicable
 5. Submit a pull request
-
-### 📄 License
-
-This project is open source and available under the MIT License.
 
 ### 🙏 Acknowledgments
 
